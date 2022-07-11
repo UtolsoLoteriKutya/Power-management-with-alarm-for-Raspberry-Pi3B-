@@ -12,25 +12,20 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=File-List href="index_elemei/filelist.xml">
 <link rel=Edit-Time-Data href="index_elemei/editdata.mso">
 <!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
+
 <![endif]--><!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Citrák János</o:Author>
   <o:LastAuthor>Citrák János</o:LastAuthor>
-  <o:Revision>4</o:Revision>
+  <o:Revision>5</o:Revision>
   <o:Created>2022-07-11T07:24:00Z</o:Created>
-  <o:LastSaved>2022-07-11T09:27:00Z</o:LastSaved>
+  <o:LastSaved>2022-07-11T10:03:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>778</o:Words>
-  <o:Characters>4902</o:Characters>
+  <o:Characters>4903</o:Characters>
   <o:Lines>40</o:Lines>
   <o:Paragraphs>11</o:Paragraphs>
-  <o:CharactersWithSpaces>5669</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>5670</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -805,7 +800,7 @@ div.WordSection1
  style='width:424.5pt;height:192.75pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index_elemei/image001.jpg" o:title="A képen szöveg, óra, idő, csatlakoztatott látható&#10;&#10;Automatikusan generált leírás"/>
 </v:shape><![endif]--><![if !vml]><img width=566 height=257
-src="index_elemei/image005.jpg"
+src="index_elemei/image002.jpg"
 alt="A képen szöveg, óra, idő, csatlakoztatott látható&#10;&#10;Automatikusan generált leírás"
 v:shapes="Kép_x0020_2"><![endif]><!--[if gte vml 1]><v:shape id="Kép_x0020_1"
  o:spid="_x0000_i1029" type="#_x0000_t75" alt="A képen szöveg látható&#10;&#10;Automatikusan generált leírás"
@@ -813,7 +808,7 @@ v:shapes="Kép_x0020_2"><![endif]><!--[if gte vml 1]><v:shape id="Kép_x0020_1"
  mso-wrap-style:square'>
  <v:imagedata src="index_elemei/image003.jpg" o:title="A képen szöveg látható&#10;&#10;Automatikusan generált leírás"/>
 </v:shape><![endif]--><![if !vml]><img width=456 height=257
-src="index_elemei/image006.jpg"
+src="index_elemei/image004.jpg"
 alt="A képen szöveg látható&#10;&#10;Automatikusan generált leírás" v:shapes="Kép_x0020_1"><![endif]></span></b><b><span
 lang=EN-TT style='font-size:14.0pt;line-height:107%;mso-ansi-language:EN-TT'><o:p></o:p></span></b></p>
 
@@ -941,7 +936,7 @@ the rpi fall back to sleep mode)<o:p></o:p></span></p>
 <p class=MsoNormal><span lang=EN-TT style='mso-ansi-language:EN-TT'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-TT style='mso-ansi-language:EN-TT'>The power
-button has got two function. One is to manually generate an interrupt to wake
+button has got two functions. One is to manually generate an interrupt to wake
 up the system, the other is to create a signal for the Rpi (via the GPIO) to
 shut down if it's pressed during the on state.<o:p></o:p></span></p>
 
